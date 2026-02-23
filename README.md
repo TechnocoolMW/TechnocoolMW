@@ -5,7 +5,7 @@ Welcome to the **TechnocoolMW** website! This is a modern, responsive, static we
 ## 🌐 Live Demo
 
 Check out the live website here:  
-[https://TechnocoolMW.github.io/TechnocoolMW/](https://TechnocoolMW.github.io/TechnocoolMW/)
+[https://TechnocoolMW.github.io/TechnocoolMW/](https://TechnocoolMW.github.io/Technocool-website/)
 
 ## 🖥️ Features
 
